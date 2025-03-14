@@ -11,3 +11,12 @@ CRIE UM COMMIT DA SEÇÃO "INFORMAÇÃO"
 - 📝 Projetos simples e tutoriais
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
+
+CRIE O COMMITE DA SEÇÃO TECH
+ 
+## 🌱 Tecnologias que estou aprendendo:
+ 
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
